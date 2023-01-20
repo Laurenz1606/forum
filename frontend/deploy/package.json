@@ -1,0 +1,17 @@
+{
+  "name": "deploy",
+  "version": "0.0.0",
+  "description": "A simple forum for online communities. (deploy)",
+  "main": "index.js",
+  "repository": "https://github.com/Laurenz1606/forum.git",
+  "author": "Laurenz1606 <laurenz.rausche@gmail.com>>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
