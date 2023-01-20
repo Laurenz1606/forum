@@ -15,5 +15,5 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: forum
-          path: ${{ github.workspace }}\out
+          path: ${{ github.workspace }}/out
           retention-days: 2
