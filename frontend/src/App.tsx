@@ -1,7 +1,7 @@
 import React from "react";
 
 function App() {
-  return <>Hallo</>;
+  return <span className="text-primary-content">DaisyUI + Tailwind</span>;
 }
 
 export default App;
